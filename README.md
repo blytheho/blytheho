@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="./meme.gif" width="100%" />
+</div>
 <!--
 **blytheho/blytheho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
