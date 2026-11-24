@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center">
   <img src="./meme.gif" width="100%" />
 </div>
